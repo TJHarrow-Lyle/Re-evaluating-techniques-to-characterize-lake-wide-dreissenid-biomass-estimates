@@ -1,2 +1,2 @@
 # Re-evaluating techniques to characterize lake-wide dreissenid biomass estimates
-Developed a framework to harmonize dreissenid (TWW g/m2) monitoring data collected from different sampling methods. A comparison between traditional interpolation techniques and machine learning with habitat characteristics was done. Extrapolation risk was determined with the area of applicability, indentifying regions outside the training domain.
+Developed a framework to harmonize dreissenid (TWW g/m2) monitoring data collected from different sampling methods. A comparison between traditional interpolation techniques and machine learning with habitat characteristics was done. Extrapolation risk was determined with the area of applicability, identifying regions outside the training domain.
